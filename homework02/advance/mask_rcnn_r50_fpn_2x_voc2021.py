@@ -27,12 +27,12 @@ data = dict(
     ),
     val=dict(
         type=dataset_type,
-        ann_file='PASCAL_VOC2012/PASCALVOC2012/ImageSets/Main/trainval.txt',
+        ann_file='PASCAL_VOC2012/PASCALVOC2012/ImageSets/Main/test.txt',
         img_prefix='PASCAL_VOC2012/PASCALVOC2012/',
     ),
     test=dict(
         type=dataset_type,
-        ann_file='PASCAL_VOC2012/PASCALVOC2012/ImageSets/Main/trainval.txt',
+        ann_file='PASCAL_VOC2012/PASCALVOC2012/ImageSets/Main/test.txt',
         img_prefix='PASCAL_VOC2012/PASCALVOC2012/',
     )
 )
