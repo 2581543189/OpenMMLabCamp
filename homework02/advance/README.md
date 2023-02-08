@@ -1,7 +1,7 @@
 ## 模型&视频文件地址
 
-链接：https://pan.baidu.com/s/1FSd__vm-tVl1IDa79NCJQA?pwd=bq6c 
-提取码：bq6c 
+链接：https://pan.baidu.com/s/1LLgVN01NvlODTm1sZ6QmSw?pwd=zwl2 
+提取码：zwl2 
 
 ## 效果图
 
